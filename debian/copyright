@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: syncwerk-server-libevhtp
-Upstream-Contact: Syncwerk GmbH <support@syncwerk.com>
+Upstream-Contact: ${MAINTAINER}
 Source: https://github.com/syncwerk/syncwerk-server-libevhtp
 
 Files: *
@@ -19,7 +19,7 @@ License: public-domain
  Peter Moore @ UCB.
 
 Files: debian/*
-Copyright: 2018 Syncwerk GmbH <support@syncwerk.com>
+Copyright: ${YEAR} ${MAINTAINER}
 License: BSD-3-Clause
 
 License: BSD-3-Clause
@@ -35,7 +35,7 @@ License: BSD-3-Clause
     may be used to endorse or promote products derived from this software
     without specific prior written permission.
  .
- THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS AS IS'' AND
+ THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
  ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
@@ -57,7 +57,7 @@ License: BSD-2-Clause
     notice, this list of conditions and the following disclaimer in the
     documentation and/or other materials provided with the distribution.
  .
- THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS AS IS'' AND
+ THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
  ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE

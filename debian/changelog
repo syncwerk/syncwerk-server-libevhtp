@@ -1,5 +1,5 @@
-syncwerk-server-libevhtp (20181204.1650+unstable~stretch) unstable; urgency=medium
+syncwerk-server-libevhtp (${BUILDVER}.${BUILDITERATION}+${RELEASE}~${OS}) unstable; urgency=medium
 
   * Initial release
 
- -- Syncwerk GmbH <support@syncwerk.com>  Tue, 04 Dec 2018 03:09:49 +0000
+ -- ${MAINTAINER}  $(date --rfc-2822)
