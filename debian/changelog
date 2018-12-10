@@ -2,4 +2,4 @@ syncwerk-server-libevhtp (${BUILDVER}.${BUILDITERATION}+${RELEASE}~${OS}) unstab
 
   * Initial release
 
- -- ${MAINTAINER}  $(date --rfc-2822)
+ -- ${MAINTAINER}  ${DATERFC}
